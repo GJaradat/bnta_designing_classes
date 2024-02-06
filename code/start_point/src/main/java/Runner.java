@@ -9,7 +9,7 @@ public class Runner {
     public static void rectangleDemo(){
         System.out.println("----------");
         System.out.println("Running rectangle tasks...");
-i think we can leave
+
         // 1. Create a new rectangle
 //        Rectangle rectangle = <INSTANTIATE A NEW RECTANGLE OBJECT HERE>
         // 2. Calculate the rectangle's area and store it in a variable
